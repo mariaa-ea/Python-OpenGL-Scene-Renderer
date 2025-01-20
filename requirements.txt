@@ -1,0 +1,5 @@
+numpy==2.2.2
+pygame==2.6.1
+PyGLM==2.7.3
+-e git+https://github.com/mcfletch/pyopengl.git@1a0928094ca40f95447df31d2cac5ec262552df4#egg=PyOpenGL
+-e git+https://github.com/mcfletch/pyopengl.git@1a0928094ca40f95447df31d2cac5ec262552df4#egg=PyOpenGL_accelerate&subdirectory=accelerate
